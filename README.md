@@ -16,3 +16,21 @@ To use these scripts, clone this repository to your local machine. Make sure to 
 ## Note
 
 Detailed instructions, including how to set up your environment, run each script, and complete the lab exercises, are available on the course's Moodle page.
+
+## License
+
+The code provided in this repository is derived from examples found in the respective libraries' official repositories. The license for each code example follows the license outlined by its respective library. For detailed licensing information, please refer to the original libraries' repositories:
+
+- For AMQP scripts:
+  - [Apache Qpid Proton repository](https://github.com/apache/qpid-proton)
+  - [Pika repository](https://github.com/pika/pika)
+
+## References
+
+This repository contains example scripts inspired by and adapted from the following sources:
+
+- AMQP examples were adapted from:
+  - Apache Qpid Proton documentation and examples.
+  - Pika documentation and examples.
+
+These scripts are intended for educational purposes within the APPIOT2024 course to facilitate understanding of the AMQP and XMPP protocols.
