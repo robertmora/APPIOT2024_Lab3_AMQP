@@ -33,4 +33,4 @@ This repository contains example scripts inspired by and adapted from the follow
   - Apache Qpid Proton documentation and examples.
   - Pika documentation and examples.
 
-These scripts are intended for educational purposes within the EURECOM APPIOT 2024 course to facilitate understanding of the AMQP and XMPP protocols.
+These scripts are intended for educational purposes within the EURECOM APPIOT 2024 course to facilitate understanding of the XMPP protocol.
