@@ -30,7 +30,7 @@ The code provided in this repository is derived from examples found in the respe
 This repository contains example scripts inspired by and adapted from the following sources:
 
 - AMQP examples were adapted from:
-  - Apache Qpid Proton documentation and examples.
-  - Pika documentation and examples.
+  - [Apache Qpid Proton repository](https://github.com/apache/qpid-proton)
+  - [Pika repository](https://github.com/pika/pika)
 
 These scripts are intended for educational purposes within the EURECOM APPIOT 2024 course to facilitate understanding of the XMPP protocol.
